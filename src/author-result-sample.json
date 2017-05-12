@@ -1,0 +1,32 @@
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "UTF-8"
+    }
+  },
+  "GoodreadsResponse": {
+    "Request": {
+      "authentication": {
+        "_text": "true"
+      },
+      "key": {
+        "_cdata": "TVvN8t1IQNJjWrr3IFVGg"
+      },
+      "method": {
+        "_cdata": "api_author_link"
+      }
+    },
+    "author": {
+      "_attributes": {
+        "id": "38550"
+      },
+      "name": {
+        "_cdata": "Brandon Sanderson"
+      },
+      "link": {
+        "_text": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson?utm_medium=api&utm_source=author_link"
+      }
+    }
+  }
+}
